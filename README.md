@@ -1,2 +1,2 @@
 # neural_net_image_classification
-Using NASA images and apply GoogLeNet and AlexNET on a augmented data collection using ADASYN 
+Using NASA images and applying GoogLeNet and AlexNET on an augmented data collection using ADASYN 
